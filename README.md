@@ -5,7 +5,7 @@ This is an HTML text editor created in Java. The HTML text editor consists of an
 
 # Screenshots 
 
-![HTML Editor](https://user-images.githubusercontent.com/78180667/125865741-910fcb46-ffdf-49cd-852a-177d3e5584cb.jpg)
+![HTML Editor (1)](https://user-images.githubusercontent.com/78180667/125865800-ecf32f32-3c2d-4874-bca4-74638b0c626f.jpg)
 
 ![Screenshot from 2021-06-25 15-11-12](https://user-images.githubusercontent.com/49923044/123474324-caa5be00-d5c7-11eb-915e-3f6330a6398f.png)
 ![Screenshot from 2021-06-25 15-11-42](https://user-images.githubusercontent.com/49923044/123474335-cf6a7200-d5c7-11eb-842a-902d2b828181.png)
